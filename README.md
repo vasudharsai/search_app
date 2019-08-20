@@ -16,7 +16,9 @@ Rails 5.2.3
 git clone git@github.com:vasudharsai/search_app.git
 
 2. Checkout to develop branch
+git init
 git checkout develop
+git pull - just to make sure you have the latest from develop
 
 3. Load external libraries
 bundle
