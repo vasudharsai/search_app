@@ -15,7 +15,10 @@ Rails 5.2.3
 1. Check out the repository
 git clone git@github.com:vasudharsai/search_app.git
 
-2. Setup and load the database
+2. Load external libraries
+bundle
+
+3. Setup and load the database
 Run the following commands to create and setup the database.
 
 bundle exec rake db:migrate
