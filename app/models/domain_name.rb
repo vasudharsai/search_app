@@ -1,0 +1,4 @@
+class DomainName < ApplicationRecord
+
+
+end
